@@ -35,7 +35,11 @@ Troubleshooting:
  1) https://www.biomaker.org/projects/wireless-portable-low-cost-open-source-hardware-for-monitoring-plant-electrophysiology
 
 
-## Collaborators
+
+
+
+
+## Collaborators:
 - **Name:** [Aniruddha Haldar](https://github.com/Subho-o)
 - **Name:** [Ankit Anand](https://github.com/ankit0anand0)
 - **Name:** [Ayush Padhan](https://github.com/ayushpadhan353)
