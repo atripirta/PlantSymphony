@@ -40,8 +40,8 @@ Troubleshooting:
 
 
 ## Collaborators:
-- **Name:** [Aniruddha Haldar](https://github.com/Subho-o)
-- **Name:** [Ankit Anand](https://github.com/ankit0anand0)
-- **Name:** [Ayush Padhan](https://github.com/ayushpadhan353)
-- **Name:** [Aditya Tripathi](https://github.com/atripirta)
+- [Aniruddha Haldar](https://github.com/Subho-o)
+- [Ankit Anand](https://github.com/ankit0anand0)
+- [Ayush Padhan](https://github.com/ayushpadhan353)
+- [Aditya Tripathi](https://github.com/atripirta)
  
