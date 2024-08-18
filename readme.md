@@ -1,4 +1,4 @@
-Plant Symphony:
+## Plant Symphony:
  
 The idea is to probe the mimosa pudica (touch me not/shame plant) plant and from its electrical signal activities produce sounds, it has been seen that it has interesting electrophysiology, its signal can be mapped to a MIDI to create interesting sound patterns (P.S. The plant doesn't make the sound it just gives an electrical signal!). 
 
@@ -33,3 +33,11 @@ Troubleshooting:
  
  Some References:
  1) https://www.biomaker.org/projects/wireless-portable-low-cost-open-source-hardware-for-monitoring-plant-electrophysiology
+
+
+## Collaborators
+- **Name:** [Aniruddha Haldar](https://github.com/Subho-o)
+- **Name:** [Ankit Anand](https://github.com/ankit0anand0)
+- **Name:** [Ayush Padhan](https://github.com/ayushpadhan353)
+- **Name:** [Aditya Tripathi](https://github.com/atripirta)
+ 
